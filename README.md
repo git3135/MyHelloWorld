@@ -1,4 +1,0 @@
-MyHelloWorld
-============
-
-MyHelloWorld repository
